@@ -1,0 +1,17 @@
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\test.deps.json
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\test.dll
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\test.pdb
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+c:\users\kcn17\source\repos\ConsoleApp1\test\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+c:\users\kcn17\source\repos\ConsoleApp1\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+c:\users\kcn17\source\repos\ConsoleApp1\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+c:\users\kcn17\source\repos\ConsoleApp1\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+c:\users\kcn17\source\repos\ConsoleApp1\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+c:\users\kcn17\source\repos\ConsoleApp1\test\obj\Debug\netcoreapp2.1\test.csproj.CopyComplete
+c:\users\kcn17\source\repos\ConsoleApp1\test\obj\Debug\netcoreapp2.1\test.dll
+c:\users\kcn17\source\repos\ConsoleApp1\test\obj\Debug\netcoreapp2.1\test.pdb
