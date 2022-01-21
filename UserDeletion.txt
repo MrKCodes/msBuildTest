@@ -1,0 +1,29 @@
+psql scoutservice
+create table provider_client_username_alias_2022_01_20 as select * from provider_client_username_alias;
+create table provider_machineid_client_2022_01_20 as select * from provider_machineid_client;
+
+
+psql scoutservice
+
+update provider_clientuser set email = 'deleted_paul.5.fenton@bt.com' where email = 'paul.5.fenton@bt.com';
+
+psql scoutservice
+
+update provider_client set email_id = 'deleted_paul.5.fenton@bt.com', username = 'deleted_paul.5.fenton@bt.com' where email_id='paul.5.fenton@bt.com';
+
+psql authentication_service
+
+update users set email = 'deleted_paul.5.fenton@bt.com' where email = 'paul.5.fenton@bt.com';
+
+psql scout_pipeline
+
+update users set email_id = 'deleted_paul.5.fenton@bt.com' where email_id='paul.5.fenton@bt.com';
+
+psql scoutservice
+
+<id_from_provider_client_deleted> = select id from provider_client where email_id='deleted_paul.5.fenton@bt.com';
+delete from provider_machineid_client where client_id = 13;
+
+
+<id_from_provider_client_deleted> = select id from provider_client where email_id='deleted_paul.5.fenton@bt.com';
+delete from provider_client_username_alias where client_id = 13;
